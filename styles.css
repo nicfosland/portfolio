@@ -1,7 +1,6 @@
 body{
 	background-color: black;
 	margin: 0px;
-	padding-top: 10px;
 }
 
 #header {
@@ -10,7 +9,14 @@ body{
 	background-color: yellow;
 	text-align: center;
 	font-size: 25px;
-	font-family: arial;
+	font-family: Roboto Mono;
+	border-bottom: 3px solid white;
+	font-weight: bold;
+	box-shadow: 5px;
+}
+
+p{
+	display: inline;
 }
 
 
